@@ -126,12 +126,15 @@ For Hardware:
 
 # Build Photos
 
-![Build](<img width="960" height="1280" alt="WhatsApp Image 2026-09-13 at 11 02 10 AM" src="https://github.com/user-attachments/assets/6b7fac76-cff2-428e-873b-0a57f64cb8c8" />
-)
-*Mechanical assembly of the 4WD chassis and parallel motor wiring for left and right motor pairs*
+[url=https://postimg.cc/7b66fQCT][img]https://i.postimg.cc/7b66fQCT/Whats-App-Image-2026-09-13-at-10-46-59-AM.jpg[/img][/url]
 
-![Final](<img width="960" height="1280" alt="WhatsApp Image 2026-09-13 at 11 02 11 AM" src="https://github.com/user-attachments/assets/0fba1bbf-b9e3-4757-9ff1-ca5540e2428e" />
-)
+[url=https://postimg.cc/tnYCwYQR][img]https://i.postimg.cc/tnYCwYQR/Whats-App-Image-2026-09-13-at-10-49-07-AM.jpg[/img][/url]
+
+[url=https://postimg.cc/K3RvwRSv][img]https://i.postimg.cc/K3RvwRSv/Whats-App-Image-2026-09-13-at-11-02-10-AM.jpg[/img][/url]
+
+[url=https://postimg.cc/PvPr9Psj][img]https://i.postimg.cc/PvPr9Psj/Whats-App-Image-2026-09-13-at-11-02-11-AM.jpg[/img][/url]
+
+
 *Completed kinetic clipboard transport vehicle with mounted OLED display and front bumper sensor*
 
 ### Project Demo
