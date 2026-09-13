@@ -117,12 +117,6 @@ For Software:
 
 For Hardware:
 
-# Schematic & Circuit
-![Circuit](hardware/circuit.png)
-*Wiring connections: ESP32 to L298N (IN1: 26, IN2: 27, IN3: 14, IN4: 12), IR Sensor (GPIO 33), and I2C OLED (SDA: 21, SCL: 22)*
-
-![Schematic](hardware/schematic.png)
-*Power circuit: External 7.4V battery pack powering L298N and ESP32 with common ground*
 
 # Build Photos
 <img width="1600" height="1583" alt="WhatsApp Image 2026-09-13 at 10 46 59 AM" src="https://github.com/user-attachments/assets/c287a225-a04a-4781-a5a5-96a2a0742de0" />
