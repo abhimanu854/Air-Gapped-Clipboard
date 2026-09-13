@@ -125,14 +125,10 @@ For Hardware:
 *Power circuit: External 7.4V battery pack powering L298N and ESP32 with common ground*
 
 # Build Photos
-
-[url=https://postimg.cc/7b66fQCT][img]https://i.postimg.cc/7b66fQCT/Whats-App-Image-2026-09-13-at-10-46-59-AM.jpg[/img][/url]
-
-[url=https://postimg.cc/tnYCwYQR][img]https://i.postimg.cc/tnYCwYQR/Whats-App-Image-2026-09-13-at-10-49-07-AM.jpg[/img][/url]
-
-[url=https://postimg.cc/K3RvwRSv][img]https://i.postimg.cc/K3RvwRSv/Whats-App-Image-2026-09-13-at-11-02-10-AM.jpg[/img][/url]
-
-[url=https://postimg.cc/PvPr9Psj][img]https://i.postimg.cc/PvPr9Psj/Whats-App-Image-2026-09-13-at-11-02-11-AM.jpg[/img][/url]
+https://i.postimg.cc/wx5s4CgF/Whats-App-Image-2026-09-13-at-10-46-59-AM.jpg
+https://i.postimg.cc/prBh9Fsj/Whats-App-Image-2026-09-13-at-10-49-07-AM.jpg
+https://i.postimg.cc/HntcJy65/Whats-App-Image-2026-09-13-at-11-02-10-AM.jpg
+https://i.postimg.cc/1XKngqvf/Whats-App-Image-2026-09-13-at-11-02-11-AM.jpg
 
 
 *Completed kinetic clipboard transport vehicle with mounted OLED display and front bumper sensor*
