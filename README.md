@@ -80,13 +80,16 @@ python client_hijacker/client.py
 For Software:
 
 # Screenshots (Add at least 3)
-![Sender Dashboard](client_hijacker/screenshots/sender_dashboard.png)
+![Sender Dashboard](<img width="756" height="540" alt="Screenshot 2026-09-13 104535" src="https://github.com/user-attachments/assets/25343749-0490-41e0-b172-3f49a5755be1" />
+)
 *Windows Sender App (client.py) capturing Ctrl+C, wiping local clipboard, and displaying live transit stopwatch and telemetry*
 
-![Receiver Radar](client_hijacker/screenshots/receiver_radar.png)
+![Receiver Radar](<img width="1600" height="1583" alt="WhatsApp Image 2026-09-13 at 10 46 59 AM" src="https://github.com/user-attachments/assets/cb3139ce-319d-4878-805b-9b0bf98bf82f" />
+)
 *Fedora Linux Receiver App (receiver.py) actively scanning ESP32 status and auto-injecting received payload into local clipboard*
 
-![OLED Display](client_hijacker/screenshots/oled_display.png)
+![OLED Display](<img width="1285" height="794" alt="WhatsApp Image 2026-09-13 at 10 49 07 AM" src="https://github.com/user-attachments/assets/4987db61-08e9-4f9a-978a-0fb74f831fa7" />
+)
 *0.96" SSD1306 OLED display showing the in-transit payload and the confused ( O_o ) Goldfish Memory face*
 
 # Diagrams
@@ -122,22 +125,20 @@ For Hardware:
 *Power circuit: External 7.4V battery pack powering L298N and ESP32 with common ground*
 
 # Build Photos
-![Components](hardware/components.png)
-*ESP32 Dev Module, L298N motor driver, 4x BO motors + chassis wheels, SSD1306 OLED display, and IR obstacle sensor*
 
-![Build](hardware/build.png)
+![Build](<img width="960" height="1280" alt="WhatsApp Image 2026-09-13 at 11 02 10 AM" src="https://github.com/user-attachments/assets/6b7fac76-cff2-428e-873b-0a57f64cb8c8" />
+)
 *Mechanical assembly of the 4WD chassis and parallel motor wiring for left and right motor pairs*
 
-![Final](hardware/final.png)
+![Final](<img width="960" height="1280" alt="WhatsApp Image 2026-09-13 at 11 02 11 AM" src="https://github.com/user-attachments/assets/0fba1bbf-b9e3-4757-9ff1-ca5540e2428e" />
+)
 *Completed kinetic clipboard transport vehicle with mounted OLED display and front bumper sensor*
 
 ### Project Demo
 # Video
-[Air-Gapped Clipboard Demo Video](https://youtu.be/)
+[Air-Gapped Clipboard Demo Video](https://drive.google.com/file/d/11vLpEt6KldmIMkDOlHQZsmsnW6fkkoma/view?usp=drivesdk)
 *Full physical demonstration showing Ctrl+C interception on Windows, physical kinetic transport across the floor, bumper collision, and clipboard injection on Fedora Linux.*
 
-# Additional Demos
-*Live two-laptop demonstration at TinkerHub Useless Projects 3.0 Hackathon.*
 
 ## Team Contributions
 - Abhimanu S: ESP32 C++ firmware architecture, motor control & driver logic, WebServer HTTP endpoints, hardware assembly and testing.
